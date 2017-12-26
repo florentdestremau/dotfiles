@@ -1,0 +1,45 @@
+[color]
+    status = auto
+    diff = auto
+    ui = auto
+    branch = auto
+    interactive = auto
+[core]
+    excludesfile = ~/.gitexcludesfile
+    editor = vim
+[push]
+    default = current
+[user]
+    name = Florent Destremau
+    email = florent.destremau@gmail.com
+[alias]
+    lg = log -M --decorate --graph --oneline
+    ci = commit
+    clo = clone
+    co = checkout
+    sth = stash
+    st = status
+    br = branch
+    rc = rebase --continue
+    pur = pull --rebase
+  ass = add
+  suck = pull
+  poop = push
+  trees = branch
+  fuckoff = checkout
+  dolly = clone
+  vomit = commit
+  look = diff
+  stole = fetch
+  comeon = init
+  showme = log
+  stick = merge
+  getout = mv
+  takeit = rebase
+  cleandat = reset
+  forkyou = rm
+  strip = show
+  speak = status
+  whodidthis = blame
+  cheat = gui
+  whereami = show-branch

@@ -1,0 +1,23 @@
+# In status view, push to origin
+bind status P !git push origin
+
+# In status view, pull from origin
+bind status L !git pull origin
+
+# In any view, amend current commit
+bind generic + !git commit --amend
+
+# In status view, delete selected file
+bind status D !@?rm %(file)
+
+# In stash view, drop the selected stash: 
+bind stash D !?git stash drop %(stash)
+
+# In stash view, apply the selected stash: 
+bind stash A !?git stash apply %(stash)
+
+# In any view, open the selected commit on Github
+bind generic B @sh -c "xdg-open 'https://'$(git remote -v | grep -Eo 'github.com[:/][^.]+' | head -1 | tr : /)'/commit/%(commit)'"
+
+# In main view, revert the selected commit
+bind main ! !?git revert %(commit)

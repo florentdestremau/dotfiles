@@ -1,0 +1,21 @@
+{
+  "userId": "github|2852204",
+  "frameworkId": "a6ba65a0-b5ae-11e7-b68e-f1ace8aefbb4",
+  "trackingDisabled": false,
+  "meta": {
+    "created_at": 1508514738,
+    "updated_at": 1508515482
+  },
+  "users": {
+    "github|2852204": {
+      "userId": "github|2852204",
+      "name": "Florent Destremau",
+      "email": "florent.destremau@gmail.com",
+      "auth": {
+        "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik56azVNREl5TVRnNFJqWTBORGswT0VJM1JrRXpORGN4UmtVMU1FWXdNemczT1VKQlFqRTBNZyJ9.eyJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZW1haWwiOiJmbG9yZW50LmRlc3RyZW1hdUBnbWFpbC5jb20iLCJuaWNrbmFtZSI6ImZsb3JlbnRkZXN0cmVtYXUiLCJuYW1lIjoiRmxvcmVudCBEZXN0cmVtYXUiLCJjcmVhdGVkX2F0IjoiMjAxNy0xMC0yMFQxNjowNDozMi40NTJaIiwidHJhY2tpbmdfaWQiOiJnaXRodWJ8Mjg1MjIwNCIsImlzcyI6Imh0dHBzOi8vc2VydmVybGVzc2luYy5hdXRoMC5jb20vIiwic3ViIjoiZ2l0aHVifDI4NTIyMDQiLCJhdWQiOiJpaUVZSzBLQjMwZ2o5NG1qQjhIUDlsaGhUZ2FlMFJnMyIsImlhdCI6MTUwODUxNTQ3MywiZXhwIjoxNTQzMDc1NDczfQ.oXitLHnnYb3ALtKI2lPKSKFM2u__-cXo9TiBueeTeBtAlGx6hSb654SqyB-a_ddyEcr0l5W6VN30LM2NUxEgtYuzQXo50-fgbNP2Amnp-czkqKSz66hjD6aCoTepv8nEUrPDQ7r7PrEx2UJRzheL2bLR_Nk82afGX51iykkQeD69oVjexBERCnzpmKNBHYEyoaJHDs4RgW5MQhnn73CVzzwnc0Pps2obTSGIVNf7DeyRI0_VxetXudSPPx3KrRQpEcIEmjebenW8rTcb_wdlS_RqROaH62kXKWbSathH2WN5-Oc0Lg6B9UdeJGkPlaMNO7A2-bfYmrVL_xUF12j1Yw",
+        "access_token": "QfPY22R_PjbCYhNNkXMFvsTyosrB7807",
+        "refresh_token": "xNakWWokdVY6RjYBx_9mkEP0WqszZ6KtI83MsBh9EXpkm"
+      }
+    }
+  }
+}
