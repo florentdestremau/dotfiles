@@ -1,0 +1,5 @@
+alias sf="symfony console"
+alias dep="vendor/bin/dep"
+alias t="tig status"
+alias st="git status"
+alias mi="sf doctrine:migrations:migrate -n"
